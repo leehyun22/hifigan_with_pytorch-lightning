@@ -1,0 +1,6 @@
+defaults:
+  - default.yaml
+
+accelerator: gpu
+strategy: 'auto'
+devices: 1

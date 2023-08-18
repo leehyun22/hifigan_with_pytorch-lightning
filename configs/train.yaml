@@ -1,0 +1,9 @@
+defaults:
+  - _self_
+  - paths: default.yaml
+  - data: default.yaml
+  - model: hifigan_config1.yaml
+  - logger: aim.yaml
+  - callbacks: default.yaml
+  - trainer: gpu.yaml
+seed: 0

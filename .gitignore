@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+.env
+data/kss
+data/*.txt
+logs/.aim
+models/*.ckpt
+/outputs
+.hydra
+/notebooks

@@ -1,0 +1,23 @@
+sampling_rate: 22050
+ori_sampling_rate: 44100
+log_mels: true
+is_resample: true
+batch_size: 64
+num_workers: 25
+data_path: '/mnt/data1/hslee/tc2/data/kss'
+segment_size: 8192
+split: true
+fine_tuning: false
+
+melkwargs: {
+  'sampling_rate': 22050,
+  'n_fft': 1024,
+  'win_length': 1024,
+  'hop_length': 256,
+  'f_min': 0.0,
+  'f_max': 11025.0,
+  'n_mels': 80,
+  'normalized': True,
+  'filter_length': 1024,
+  'fmax_for_loss': null,
+}
