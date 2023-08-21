@@ -39,6 +39,19 @@ python3 ./src/train.py
 
 ## 추론 & 결과
 
+<figure>
+    <figcaption>Original Wav</figcaption>
+    <audio controls>
+        <source src="./audio/4_3189.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    <figcaption>Generated Wav</figcaption>
+    <audio controls>
+        <source src="./audio/4_3189_generated.wav" type="audio/wav" title="Generated Wav">
+        Your browser does not support the audio element.
+    </audio>
+</figure>
+
 
 
 ## 참조
