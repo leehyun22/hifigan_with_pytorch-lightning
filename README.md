@@ -41,18 +41,11 @@ python3 ./src/train.py
 
 <figure>
     <figcaption>Original Wav</figcaption>
-    <audio controls>
-        <source src="./audio/4_3189.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
+    <video src="./audio/4_3189.mov"></video>
     <figcaption>Generated Wav</figcaption>
-    <audio controls>
-        <source src="./audio/4_3189_generated.wav" type="audio/wav" title="Generated Wav">
-        Your browser does not support the audio element.
-    </audio>
+    <video src="./audio/4_3189_generated.mov"></video>
 </figure>
 
-(https://github.com/leehyun22/hifigan_with_pytorch-lightning/assets/39438255/99f59e44-7b8c-4179-a948-6413842a1df9)
 
 ## 참조
 https://github.com/jik876/hifi-gan
