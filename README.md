@@ -52,7 +52,7 @@ python3 ./src/train.py
     </audio>
 </figure>
 
-
+(https://github.com/leehyun22/hifigan_with_pytorch-lightning/assets/39438255/99f59e44-7b8c-4179-a948-6413842a1df9)
 
 ## 참조
 https://github.com/jik876/hifi-gan
