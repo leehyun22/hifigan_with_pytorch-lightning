@@ -41,9 +41,9 @@ python3 ./src/train.py
 
 <figure>
     <figcaption>Original Wav</figcaption>
-    <video src="https://github.com/leehyun22/hifigan_with_pytorch-lightning/assets/39438255/e283b619-c5d5-4b41-b100-33c74feab53e"></video>
+    <video src="https://github.com/leehyun22/hifigan_with_pytorch-lightning/assets/39438255/86e080e3-d7f6-4e89-acec-7f9247e970c9"></video>
     <figcaption>Generated Wav</figcaption>
-    <video src="https://github.com/leehyun22/hifigan_with_pytorch-lightning/assets/39438255/76e52d6f-be04-475d-a971-c92e886b88f0"></video>
+    <video src="https://github.com/leehyun22/hifigan_with_pytorch-lightning/assets/39438255/5ca91c63-12b1-42e7-b006-675f1dd9f0de"></video>
 </figure>
 
 
